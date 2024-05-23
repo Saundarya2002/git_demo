@@ -1,2 +1,13 @@
 this is the line1
 and line 2
+<<<<<<< HEAD
+
+Well adding some lines here
+more lines 
+and more
+=======
+sdkjfsdf
+sadkfjn
+sdkfnslmflwerwe
+slerowinf
+>>>>>>> fd09d31ec08c0fe42d983514f4b2ace64c5c9546
